@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout: page
+title: volunteer
 ---
 
 <!DOCTYPE html>

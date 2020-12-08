@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout: page
+title: Contact Us
 ---
 
 <!DOCTYPE html>
