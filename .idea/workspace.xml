@@ -1,33 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="ce2dcc31-34a5-476c-a7ed-cf91f66653b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_site/pages/Contactus.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/pages/volunteer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/documentation/getting-started.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/documentation/getting-started.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/documentation/welcome-to-millennial.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/documentation/welcome-to-millennial.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pages/volunteer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/resources/learning-resources.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/resources/learning-resources.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/rss-feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/rss-feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/sample/text-formatting.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sample/text-formatting.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Contactus.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Contactus.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/volunteer.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/volunteer.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,15 +19,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lMbGGmSklmX4pLr7hhGuvV9dm4" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -66,25 +43,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607409809951</updated>
-      <workItem from="1607409811123" duration="2635000" />
+      <workItem from="1607409811123" duration="1231000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
